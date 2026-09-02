@@ -1,4 +1,0 @@
-source_id,acquisition_date,acquisition_method,repository_or_website,edition_identified,file_name,sha256,ocr_status,verification_status,notes
-M-003,2026-09-02,web download,Internet Sacred Text Archive,Buhler 1886 Laws of Manu,buhler_1886_web.html,ad9bfe20480e74285bd37ac626522ef0a0e3b9e0e062684388afc651c032dfc3,HTML,secondary digital copy,Downloaded from publicly accessible digital text; underlying edition is Clarendon Press 1886
-M-007,2026-09-02,web download,Internet Archive,Jolly 1887 original Sanskrit text,jolly_1887.pdf,,PDF,primary historical Sanskrit edition,Public-domain digitization; verify scan against title page
-M-008,2026-09-02,Wellcome Collection download,Wellcome Collection,Mandlik 1886 Sanskrit edition with six commentaries,mandlik_1886_vol1.pdf;mandlik_1886_vol2.pdf,,PDF,primary historical Sanskrit/commentarial edition,Public Domain Mark; record individual checksums after download

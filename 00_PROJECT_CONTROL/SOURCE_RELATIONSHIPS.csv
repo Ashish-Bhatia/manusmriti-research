@@ -1,6 +1,0 @@
-relationship_id,source_a,relationship,source_b,evidence,confidence,notes
-R-001,M-002,translation based on Kulluka-associated textual/commentarial tradition,M-006,William Jones title page/catalogue description,high,Requires examination of Jones preface and Sanskrit base
-R-002,M-003,major English translation,M-007,Historical bibliography,high,Buhler 1886 and Jolly 1887 are near-contemporary but distinct projects
-R-003,M-008,contains commentaries including Kulluka and Medhatithi,M-004;M-006,Wellcome catalogue,high,Same 1886 physical edition contains multiple commentarial traditions
-R-004,M-007,critical Sanskrit edition using standard commentaries,M-004;M-005;M-006,Title and bibliographic description,high,Requires examination of Jolly preface for exact methodology
-R-005,M-001,modern critical edition evaluates earlier textual traditions,M-007;M-008,Historical textual-critical relationship,medium,Requires direct comparison of editorial apparatus
